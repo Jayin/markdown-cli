@@ -1,0 +1,30 @@
+{
+  "name": "markdown-cli",
+  "version": "1.0.0",
+  "description": "markdown [-s --string \"\"] [file] ",
+  "main": "index.js",
+  "bin": {
+    "markdown": "bin/markdown.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jayin/markdown-cli.git"
+  },
+  "keywords": [
+    "markdown",
+    "cli"
+  ],
+  "author": "Jayin Ton",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Jayin/markdown-cli/issues"
+  },
+  "homepage": "https://github.com/Jayin/markdown-cli#readme",
+  "dependencies": {
+    "commander": "^2.9.0",
+    "kramed": "^0.5.5"
+  }
+}
