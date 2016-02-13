@@ -1,5 +1,5 @@
 {
-  "name": "markdown-cli",
+  "name": "markdown-cli2",
   "version": "1.0.0",
   "description": "markdown [-s --string \"\"] [file] ",
   "main": "index.js",

@@ -1,9 +1,9 @@
-# md5-cli [![v](https://img.shields.io/npm/v/markdown-cli.svg)](https://www.npmjs.com/package/markdown-cli) 
+# md5-cli [![v](https://img.shields.io/npm/v/markdown-cli2.svg)](https://www.npmjs.com/package/markdown-cli2) 
 
 ## Install
 
 ```
-$ npm install -g markdown-cli
+$ npm install -g markdown-cli2
 ```
 
 ## Usage
